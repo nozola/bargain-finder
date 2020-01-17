@@ -1,0 +1,166 @@
+[02-Nov-2019 01:22:21 UTC] PHP Notice:  Use of undefined constant keyword - assumed 'keyword' in /home/nozola/public_html/classifieds/index.php on line 9
+[02-Nov-2019 01:22:21 UTC] PHP Notice:  Use of undefined constant priceLow - assumed 'priceLow' in /home/nozola/public_html/classifieds/index.php on line 9
+[02-Nov-2019 01:22:21 UTC] PHP Notice:  Use of undefined constant priceHigh - assumed 'priceHigh' in /home/nozola/public_html/classifieds/index.php on line 9
+[02-Nov-2019 01:22:21 UTC] PHP Notice:  Use of undefined constant zip - assumed 'zip' in /home/nozola/public_html/classifieds/index.php on line 9
+[02-Nov-2019 01:22:21 UTC] PHP Notice:  Use of undefined constant miles - assumed 'miles' in /home/nozola/public_html/classifieds/index.php on line 9
+[02-Nov-2019 01:22:21 UTC] PHP Warning:  file_get_contents(0): failed to open stream: No such file or directory in /home/nozola/public_html/classifieds/index.php on line 12
+[02-Nov-2019 02:47:21 UTC] PHP Notice:  Use of undefined constant keyword - assumed 'keyword' in /home/nozola/public_html/classifieds/index.php on line 9
+[02-Nov-2019 02:47:21 UTC] PHP Notice:  Use of undefined constant priceLow - assumed 'priceLow' in /home/nozola/public_html/classifieds/index.php on line 9
+[02-Nov-2019 02:47:21 UTC] PHP Notice:  Use of undefined constant priceHigh - assumed 'priceHigh' in /home/nozola/public_html/classifieds/index.php on line 9
+[02-Nov-2019 02:47:21 UTC] PHP Notice:  Use of undefined constant zip - assumed 'zip' in /home/nozola/public_html/classifieds/index.php on line 9
+[02-Nov-2019 02:47:21 UTC] PHP Notice:  Use of undefined constant miles - assumed 'miles' in /home/nozola/public_html/classifieds/index.php on line 9
+[02-Nov-2019 02:47:21 UTC] PHP Warning:  file_get_contents(0): failed to open stream: No such file or directory in /home/nozola/public_html/classifieds/index.php on line 12
+[02-Nov-2019 03:13:08 UTC] PHP Notice:  Undefined offset: 1 in /home/nozola/public_html/classifieds/index.php on line 33
+[02-Nov-2019 03:14:50 UTC] PHP Warning:  preg_match(): Unknown modifier '(' in /home/nozola/public_html/classifieds/index.php on line 32
+[02-Nov-2019 04:29:27 UTC] PHP Notice:  Undefined variable: date in /home/nozola/public_html/classifieds/index.php on line 4
+[02-Nov-2019 04:29:27 UTC] PHP Fatal error:  Call to a member function format() on null in /home/nozola/public_html/classifieds/index.php on line 4
+[02-Nov-2019 04:30:03 UTC] PHP Notice:  Undefined variable: date in /home/nozola/public_html/classifieds/index.php on line 4
+[02-Nov-2019 04:30:03 UTC] PHP Fatal error:  Call to a member function format() on null in /home/nozola/public_html/classifieds/index.php on line 4
+[02-Nov-2019 04:30:15 UTC] PHP Notice:  Undefined variable: date in /home/nozola/public_html/classifieds/index.php on line 4
+[02-Nov-2019 04:30:15 UTC] PHP Fatal error:  Call to a member function format() on null in /home/nozola/public_html/classifieds/index.php on line 4
+[02-Nov-2019 04:30:54 UTC] PHP Fatal error:  Call to a member function format() on string in /home/nozola/public_html/classifieds/index.php on line 4
+[02-Nov-2019 04:31:42 UTC] PHP Notice:  Undefined variable: listing_ids in /home/nozola/public_html/classifieds/index.php on line 6
+[02-Nov-2019 05:03:24 UTC] PHP Fatal error:  Call to undefined function push() in /home/nozola/public_html/classifieds/index.php on line 15
+[02-Nov-2019 05:04:03 UTC] PHP Fatal error:  Call to undefined function push() in /home/nozola/public_html/classifieds/index.php on line 15
+[02-Nov-2019 05:04:20 UTC] PHP Fatal error:  Call to undefined function push() in /home/nozola/public_html/classifieds/index.php on line 15
+[02-Nov-2019 05:05:52 UTC] PHP Notice:  Undefined variable: return_ids in /home/nozola/public_html/classifieds/index.php on line 23
+[02-Nov-2019 05:05:52 UTC] PHP Warning:  Division by zero in /home/nozola/public_html/classifieds/index.php on line 23
+[02-Nov-2019 05:08:28 UTC] PHP Fatal error:  Call to undefined function push() in /home/nozola/public_html/classifieds/index.php on line 18
+[02-Nov-2019 05:10:20 UTC] PHP Fatal error:  Call to undefined function InArray() in /home/nozola/public_html/classifieds/index.php on line 106
+[02-Nov-2019 05:11:09 UTC] PHP Fatal error:  Call to undefined function push() in /home/nozola/public_html/classifieds/index.php on line 18
+[02-Nov-2019 05:12:22 UTC] PHP Fatal error:  Call to undefined function InArray() in /home/nozola/public_html/classifieds/index.php on line 106
+[02-Nov-2019 05:13:29 UTC] PHP Fatal error:  Call to undefined function InArray() in /home/nozola/public_html/classifieds/index.php on line 106
+[02-Nov-2019 05:15:43 UTC] PHP Fatal error:  Call to undefined function InArray() in /home/nozola/public_html/classifieds/index.php on line 109
+[02-Nov-2019 05:16:19 UTC] PHP Fatal error:  Call to undefined function InArray() in /home/nozola/public_html/classifieds/index.php on line 109
+[02-Nov-2019 05:16:40 UTC] PHP Fatal error:  Call to undefined function InArray() in /home/nozola/public_html/classifieds/index.php on line 110
+[02-Nov-2019 05:17:42 UTC] PHP Fatal error:  Call to undefined function InArray() in /home/nozola/public_html/classifieds/index.php on line 110
+[02-Nov-2019 05:21:03 UTC] PHP Notice:  Undefined variable: conn in /home/nozola/public_html/classifieds/index.php on line 115
+[02-Nov-2019 05:21:03 UTC] PHP Fatal error:  Call to a member function query() on null in /home/nozola/public_html/classifieds/index.php on line 115
+[03-Nov-2019 02:38:43 UTC] PHP Notice:  Undefined variable: argv in /home/nozola/public_html/classifieds/index.php on line 19
+[03-Nov-2019 02:38:44 UTC] PHP Notice:  Undefined variable: argv in /home/nozola/public_html/classifieds/index.php on line 117
+[03-Nov-2019 02:38:44 UTC] PHP Notice:  Undefined index: keyword in /home/nozola/public_html/classifieds/index.php on line 118
+[03-Nov-2019 02:38:44 UTC] PHP Notice:  Undefined index: email in /home/nozola/public_html/classifieds/index.php on line 119
+[03-Nov-2019 02:38:44 UTC] PHP Notice:  Undefined index: distance in /home/nozola/public_html/classifieds/index.php on line 120
+[03-Nov-2019 02:38:44 UTC] PHP Notice:  Undefined index: zip in /home/nozola/public_html/classifieds/index.php on line 121
+[03-Nov-2019 02:38:44 UTC] PHP Notice:  Undefined variable: argv in /home/nozola/public_html/classifieds/index.php on line 163
+[03-Nov-2019 02:38:44 UTC] PHP Notice:  Undefined index: keyword in /home/nozola/public_html/classifieds/index.php on line 164
+[03-Nov-2019 02:38:44 UTC] PHP Notice:  Undefined offset: 1 in /home/nozola/public_html/classifieds/index.php on line 165
+[09-Nov-2019 19:42:48 UTC] PHP Notice:  Undefined variable: date_limit in /home/nozola/public_html/classifieds/test_query.php on line 30
+[09-Nov-2019 20:21:05 UTC] PHP Warning:  Division by zero in /home/nozola/public_html/classifieds/test_query.php on line 30
+[09-Nov-2019 20:21:31 UTC] PHP Warning:  Division by zero in /home/nozola/public_html/classifieds/test_query.php on line 30
+[09-Nov-2019 20:22:05 UTC] PHP Warning:  Division by zero in /home/nozola/public_html/classifieds/test_query.php on line 30
+[09-Nov-2019 20:22:12 UTC] PHP Warning:  Division by zero in /home/nozola/public_html/classifieds/test_query.php on line 30
+[09-Nov-2019 20:23:02 UTC] PHP Warning:  Division by zero in /home/nozola/public_html/classifieds/test_query.php on line 30
+[09-Nov-2019 20:23:30 UTC] PHP Warning:  Division by zero in /home/nozola/public_html/classifieds/test_query.php on line 30
+[09-Nov-2019 21:34:46 UTC] PHP Notice:  Undefined index: HIGHLIGHTS in /home/nozola/public_html/classifieds/add_search.php on line 36
+[09-Nov-2019 21:35:00 UTC] PHP Notice:  Undefined index: HIGHLIGHTS in /home/nozola/public_html/classifieds/add_search.php on line 36
+[09-Nov-2019 21:35:00 UTC] PHP Notice:  Undefined index: HIGHLIGHTS in /home/nozola/public_html/classifieds/add_search.php on line 36
+[09-Nov-2019 21:35:15 UTC] PHP Notice:  Undefined index: HIGHLIGHTS in /home/nozola/public_html/classifieds/add_search.php on line 36
+[09-Nov-2019 21:35:15 UTC] PHP Notice:  Undefined index: HIGHLIGHTS in /home/nozola/public_html/classifieds/add_search.php on line 36
+[09-Nov-2019 21:37:09 UTC] PHP Notice:  Undefined index: HIGHLIGHTS in /home/nozola/public_html/classifieds/add_search.php on line 36
+[09-Nov-2019 21:37:09 UTC] PHP Notice:  Undefined index: HIGHLIGHTS in /home/nozola/public_html/classifieds/add_search.php on line 36
+[09-Nov-2019 21:38:24 UTC] PHP Notice:  Undefined index: HIGHLIGHTS in /home/nozola/public_html/classifieds/add_search.php on line 36
+[09-Nov-2019 21:38:24 UTC] PHP Notice:  Undefined index: HIGHLIGHTS in /home/nozola/public_html/classifieds/add_search.php on line 36
+[09-Nov-2019 21:39:38 UTC] PHP Notice:  Undefined index: HIGHLIGHTS in /home/nozola/public_html/classifieds/add_search.php on line 36
+[09-Nov-2019 21:39:38 UTC] PHP Notice:  Undefined index: HIGHLIGHTS in /home/nozola/public_html/classifieds/add_search.php on line 36
+[09-Nov-2019 21:40:22 UTC] PHP Notice:  Undefined index: HIGHLIGHTS in /home/nozola/public_html/classifieds/add_search.php on line 36
+[09-Nov-2019 21:40:22 UTC] PHP Notice:  Undefined index: HIGHLIGHTS in /home/nozola/public_html/classifieds/add_search.php on line 36
+[09-Nov-2019 21:40:50 UTC] PHP Notice:  Undefined index: HIGHLIGHTS in /home/nozola/public_html/classifieds/add_search.php on line 36
+[09-Nov-2019 21:40:50 UTC] PHP Notice:  Undefined index: HIGHLIGHTS in /home/nozola/public_html/classifieds/add_search.php on line 36
+[09-Nov-2019 21:42:48 UTC] PHP Parse error:  syntax error, unexpected '"' in /home/nozola/public_html/classifieds/test_query.php on line 28
+[09-Nov-2019 21:43:29 UTC] PHP Notice:  Undefined index: HIGHLIGHTS in /home/nozola/public_html/classifieds/add_search.php on line 38
+[09-Nov-2019 21:43:29 UTC] PHP Notice:  Undefined index: HIGHLIGHTS in /home/nozola/public_html/classifieds/add_search.php on line 38
+[09-Nov-2019 21:44:00 UTC] PHP Notice:  Undefined index: HIGHLIGHTS in /home/nozola/public_html/classifieds/add_search.php on line 38
+[09-Nov-2019 21:44:00 UTC] PHP Notice:  Undefined index: HIGHLIGHTS in /home/nozola/public_html/classifieds/add_search.php on line 38
+[09-Nov-2019 21:44:10 UTC] PHP Notice:  Undefined index: HIGHLIGHTS in /home/nozola/public_html/classifieds/add_search.php on line 38
+[09-Nov-2019 21:44:10 UTC] PHP Notice:  Undefined index: HIGHLIGHTS in /home/nozola/public_html/classifieds/add_search.php on line 38
+[09-Nov-2019 21:45:06 UTC] PHP Notice:  Undefined index: HIGHLIGHTS in /home/nozola/public_html/classifieds/add_search.php on line 38
+[09-Nov-2019 21:45:06 UTC] PHP Notice:  Undefined index: HIGHLIGHTS in /home/nozola/public_html/classifieds/add_search.php on line 38
+[09-Nov-2019 21:45:24 UTC] PHP Notice:  Undefined index: HIGHLIGHTS in /home/nozola/public_html/classifieds/add_search.php on line 38
+[09-Nov-2019 21:45:24 UTC] PHP Notice:  Undefined index: HIGHLIGHTS in /home/nozola/public_html/classifieds/add_search.php on line 38
+[09-Nov-2019 21:45:52 UTC] PHP Notice:  Undefined index: HIGHLIGHTS in /home/nozola/public_html/classifieds/add_search.php on line 38
+[09-Nov-2019 21:45:52 UTC] PHP Notice:  Undefined index: HIGHLIGHTS in /home/nozola/public_html/classifieds/add_search.php on line 38
+[09-Nov-2019 21:47:06 UTC] PHP Notice:  Undefined index: HIGHLIGHTS in /home/nozola/public_html/classifieds/add_search.php on line 38
+[09-Nov-2019 21:47:06 UTC] PHP Notice:  Undefined index: HIGHLIGHTS in /home/nozola/public_html/classifieds/add_search.php on line 38
+[09-Nov-2019 21:47:30 UTC] PHP Notice:  Undefined index: HIGHLIGHTS in /home/nozola/public_html/classifieds/add_search.php on line 38
+[09-Nov-2019 21:47:30 UTC] PHP Notice:  Undefined index: HIGHLIGHTS in /home/nozola/public_html/classifieds/add_search.php on line 38
+[09-Nov-2019 21:48:50 UTC] PHP Notice:  Undefined index: HIGHLIGHTS in /home/nozola/public_html/classifieds/add_search.php on line 38
+[09-Nov-2019 21:48:50 UTC] PHP Notice:  Undefined index: HIGHLIGHTS in /home/nozola/public_html/classifieds/add_search.php on line 38
+[09-Nov-2019 21:49:03 UTC] PHP Notice:  Undefined index: HIGHLIGHTS in /home/nozola/public_html/classifieds/add_search.php on line 38
+[09-Nov-2019 21:49:03 UTC] PHP Notice:  Undefined index: HIGHLIGHTS in /home/nozola/public_html/classifieds/add_search.php on line 38
+[09-Nov-2019 21:49:33 UTC] PHP Notice:  Undefined index: HIGHLIGHTS in /home/nozola/public_html/classifieds/add_search.php on line 38
+[09-Nov-2019 21:49:33 UTC] PHP Notice:  Undefined index: HIGHLIGHTS in /home/nozola/public_html/classifieds/add_search.php on line 38
+[09-Nov-2019 21:51:51 UTC] PHP Parse error:  syntax error, unexpected '$display_highlights' (T_VARIABLE) in /home/nozola/public_html/classifieds/add_search.php on line 39
+[09-Nov-2019 21:52:01 UTC] PHP Notice:  Undefined index: HIGHLIGHTS in /home/nozola/public_html/classifieds/add_search.php on line 38
+[09-Nov-2019 21:52:01 UTC] PHP Notice:  Undefined index: HIGHLIGHTS in /home/nozola/public_html/classifieds/add_search.php on line 38
+[10-Nov-2019 15:40:27 UTC] PHP Notice:  Undefined index: HIGHLIGHTS in /home/nozola/public_html/classifieds/add_search.php on line 38
+[10-Nov-2019 15:40:27 UTC] PHP Notice:  Undefined index: HIGHLIGHTS in /home/nozola/public_html/classifieds/add_search.php on line 46
+[10-Nov-2019 15:40:27 UTC] PHP Notice:  Undefined index: HIGHLIGHTS in /home/nozola/public_html/classifieds/add_search.php on line 38
+[10-Nov-2019 15:40:27 UTC] PHP Notice:  Undefined index: HIGHLIGHTS in /home/nozola/public_html/classifieds/add_search.php on line 46
+[10-Nov-2019 15:45:15 UTC] PHP Parse error:  syntax error, unexpected '"' in /home/nozola/public_html/classifieds/test_query.php on line 28
+[10-Nov-2019 16:10:47 UTC] PHP Parse error:  syntax error, unexpected 'break' (T_BREAK) in /home/nozola/public_html/classifieds/add_search.php on line 55
+[11-Nov-2019 23:35:28 UTC] PHP Parse error:  syntax error, unexpected '$contents' (T_VARIABLE), expecting identifier (T_STRING) in /home/nozola/public_html/classifieds/multiple_test.php on line 69
+[11-Nov-2019 23:36:49 UTC] PHP Parse error:  syntax error, unexpected '_using' (T_STRING) in /home/nozola/public_html/classifieds/multiple_test.php on line 165
+[17-Nov-2019 01:17:35 UTC] PHP Warning:  file_get_contents(https://classifieds.ksl.com/search?category[]=&amp;subCategory[]=&amp;keyword=planer&amp;zip=84095&amp;miles=50&amp;sellerType[]=&amp;marketType[]=Sale&amp;hasPhotos[]=Has%20Photos&amp;postedTime[]=): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/nozola/public_html/classifieds/multiple_test.php on line 69
+[17-Nov-2019 01:17:35 UTC] PHP Notice:  Undefined variable: someArray in /home/nozola/public_html/classifieds/multiple_test.php on line 120
+[17-Nov-2019 01:17:35 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/nozola/public_html/classifieds/multiple_test.php on line 120
+[17-Nov-2019 01:17:35 UTC] PHP Warning:  file_get_contents(https://classifieds.ksl.com/search?category[]=&amp;subCategory[]=&amp;keyword=jointer&amp;zip=84095&amp;miles=50&amp;sellerType[]=&amp;marketType[]=Sale&amp;hasPhotos[]=Has%20Photos&amp;postedTime[]=): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/nozola/public_html/classifieds/multiple_test.php on line 69
+[17-Nov-2019 01:17:35 UTC] PHP Notice:  Undefined variable: someArray in /home/nozola/public_html/classifieds/multiple_test.php on line 120
+[17-Nov-2019 01:17:35 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/nozola/public_html/classifieds/multiple_test.php on line 120
+[18-Nov-2019 14:01:15 UTC] PHP Notice:  Trying to get property of non-object in /home/nozola/public_html/classifieds/classifieds_page_test.php on line 40
+[18-Nov-2019 14:01:49 UTC] PHP Notice:  Trying to get property of non-object in /home/nozola/public_html/classifieds/classifieds_page_test.php on line 40
+[18-Nov-2019 14:03:24 UTC] PHP Notice:  Trying to get property of non-object in /home/nozola/public_html/classifieds/classifieds_page_test.php on line 40
+[18-Nov-2019 14:03:24 UTC] PHP Notice:  Trying to get property of non-object in /home/nozola/public_html/classifieds/classifieds_page_test.php on line 41
+[18-Nov-2019 14:03:32 UTC] PHP Notice:  Trying to get property of non-object in /home/nozola/public_html/classifieds/classifieds_page_test.php on line 40
+[18-Nov-2019 14:03:32 UTC] PHP Notice:  Trying to get property of non-object in /home/nozola/public_html/classifieds/classifieds_page_test.php on line 41
+[18-Nov-2019 14:03:47 UTC] PHP Notice:  Trying to get property of non-object in /home/nozola/public_html/classifieds/classifieds_page_test.php on line 40
+[18-Nov-2019 14:03:47 UTC] PHP Notice:  Trying to get property of non-object in /home/nozola/public_html/classifieds/classifieds_page_test.php on line 41
+[18-Nov-2019 14:04:08 UTC] PHP Notice:  Trying to get property of non-object in /home/nozola/public_html/classifieds/classifieds_page_test.php on line 40
+[18-Nov-2019 14:04:08 UTC] PHP Notice:  Trying to get property of non-object in /home/nozola/public_html/classifieds/classifieds_page_test.php on line 41
+[18-Nov-2019 14:06:18 UTC] PHP Notice:  Trying to get property of non-object in /home/nozola/public_html/classifieds/classifieds_page_test.php on line 40
+[18-Nov-2019 14:06:18 UTC] PHP Notice:  Trying to get property of non-object in /home/nozola/public_html/classifieds/classifieds_page_test.php on line 41
+[18-Nov-2019 14:07:20 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/nozola/public_html/classifieds/classifieds_page_test.php on line 123
+[18-Nov-2019 14:07:55 UTC] PHP Notice:  Trying to get property of non-object in /home/nozola/public_html/classifieds/classifieds_page_test.php on line 40
+[18-Nov-2019 14:07:55 UTC] PHP Warning:  Division by zero in /home/nozola/public_html/classifieds/classifieds_page_test.php on line 42
+[18-Nov-2019 14:09:22 UTC] PHP Warning:  Division by zero in /home/nozola/public_html/classifieds/classifieds_page_test.php on line 42
+[18-Nov-2019 14:09:41 UTC] PHP Warning:  Division by zero in /home/nozola/public_html/classifieds/classifieds_page_test.php on line 42
+[18-Nov-2019 14:11:53 UTC] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/nozola/public_html/classifieds/classifieds_page_test.php on line 40
+[18-Nov-2019 14:14:44 UTC] PHP Warning:  file_get_contents(https://classifieds.ksl.com/search?category[]=&amp;subCategory[]=&amp;keyword=planer&amp;zip=84095&amp;miles=50&amp;sellerType[]=&amp;marketType[]=Sale&amp;hasPhotos[]=Has%20Photos&amp;postedTime[]=): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/nozola/public_html/classifieds/classifieds_page_test.php on line 77
+[18-Nov-2019 14:14:44 UTC] PHP Notice:  Undefined variable: someArray in /home/nozola/public_html/classifieds/classifieds_page_test.php on line 127
+[18-Nov-2019 14:14:44 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/nozola/public_html/classifieds/classifieds_page_test.php on line 127
+[18-Nov-2019 14:14:44 UTC] PHP Warning:  file_get_contents(https://classifieds.ksl.com/search?category[]=&amp;subCategory[]=&amp;keyword=jointer&amp;zip=84095&amp;miles=50&amp;sellerType[]=&amp;marketType[]=Sale&amp;hasPhotos[]=Has%20Photos&amp;postedTime[]=): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/nozola/public_html/classifieds/classifieds_page_test.php on line 77
+[18-Nov-2019 14:14:44 UTC] PHP Notice:  Undefined variable: someArray in /home/nozola/public_html/classifieds/classifieds_page_test.php on line 127
+[18-Nov-2019 14:14:44 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/nozola/public_html/classifieds/classifieds_page_test.php on line 127
+[18-Nov-2019 14:15:05 UTC] PHP Warning:  file_get_contents(https://classifieds.ksl.com/search?category[]=&amp;subCategory[]=&amp;keyword=planer&amp;zip=84095&amp;miles=50&amp;sellerType[]=&amp;marketType[]=Sale&amp;hasPhotos[]=Has%20Photos&amp;postedTime[]=): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/nozola/public_html/classifieds/classifieds_page_test.php on line 76
+[18-Nov-2019 14:15:05 UTC] PHP Notice:  Undefined variable: someArray in /home/nozola/public_html/classifieds/classifieds_page_test.php on line 126
+[18-Nov-2019 14:15:05 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/nozola/public_html/classifieds/classifieds_page_test.php on line 126
+[18-Nov-2019 14:15:05 UTC] PHP Warning:  file_get_contents(https://classifieds.ksl.com/search?category[]=&amp;subCategory[]=&amp;keyword=jointer&amp;zip=84095&amp;miles=50&amp;sellerType[]=&amp;marketType[]=Sale&amp;hasPhotos[]=Has%20Photos&amp;postedTime[]=): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/nozola/public_html/classifieds/classifieds_page_test.php on line 76
+[18-Nov-2019 14:15:05 UTC] PHP Notice:  Undefined variable: someArray in /home/nozola/public_html/classifieds/classifieds_page_test.php on line 126
+[18-Nov-2019 14:15:05 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/nozola/public_html/classifieds/classifieds_page_test.php on line 126
+[18-Nov-2019 14:16:14 UTC] PHP Warning:  file_get_contents(https://classifieds.ksl.com/search?category[]=&amp;subCategory[]=&amp;keyword=planer&amp;zip=84095&amp;miles=50&amp;sellerType[]=&amp;marketType[]=Sale&amp;hasPhotos[]=Has%20Photos&amp;postedTime[]=): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/nozola/public_html/classifieds/classifieds_page_test.php on line 76
+[18-Nov-2019 14:16:14 UTC] PHP Notice:  Undefined variable: someArray in /home/nozola/public_html/classifieds/classifieds_page_test.php on line 126
+[18-Nov-2019 14:16:14 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/nozola/public_html/classifieds/classifieds_page_test.php on line 126
+[18-Nov-2019 14:16:14 UTC] PHP Warning:  file_get_contents(https://classifieds.ksl.com/search?category[]=&amp;subCategory[]=&amp;keyword=jointer&amp;zip=84095&amp;miles=50&amp;sellerType[]=&amp;marketType[]=Sale&amp;hasPhotos[]=Has%20Photos&amp;postedTime[]=): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/nozola/public_html/classifieds/classifieds_page_test.php on line 76
+[18-Nov-2019 14:16:14 UTC] PHP Notice:  Undefined variable: someArray in /home/nozola/public_html/classifieds/classifieds_page_test.php on line 126
+[18-Nov-2019 14:16:14 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/nozola/public_html/classifieds/classifieds_page_test.php on line 126
+[18-Nov-2019 14:20:19 UTC] PHP Warning:  file_get_contents(https://classifieds.ksl.com/search?category[]=&amp;subCategory[]=&amp;keyword=jointer&amp;zip=84095&amp;miles=50&amp;sellerType[]=&amp;marketType[]=Sale&amp;hasPhotos[]=Has%20Photos&amp;postedTime[]=): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/nozola/public_html/classifieds/classifieds_page_test.php on line 13
+[18-Nov-2019 14:23:24 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/nozola/public_html/classifieds/classifieds_page_test.php on line 17
+[18-Nov-2019 14:27:49 UTC] PHP Warning:  file_get_contents(https://classifieds.ksl.com/search?category[]=&amp;subCategory[]=&amp;keyword=jointer&amp;zip=84095&amp;miles=50&amp;sellerType[]=&amp;marketType[]=Sale&amp;hasPhotos[]=Has%20Photos&amp;postedTime[]=): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/nozola/public_html/classifieds/classifieds_page_test.php on line 22
+[18-Nov-2019 14:28:46 UTC] PHP Warning:  file_get_contents(https://classifieds.ksl.com/search?category[]=&amp;subCategory[]=&amp;keyword=jointer&amp;zip=84095&amp;miles=50&amp;sellerType[]=&amp;marketType[]=Sale&amp;hasPhotos[]=Has%20Photos&amp;postedTime[]=): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/nozola/public_html/classifieds/classifieds_page_test.php on line 22
+[20-Nov-2019 22:51:11 UTC] PHP Warning:  file_get_contents(https://classifieds.ksl.com/search?category[]=&amp;subCategory[]=&amp;keyword=jointer&amp;zip=84095&amp;miles=50&amp;sellerType[]=&amp;marketType[]=Sale&amp;hasPhotos[]=Has%20Photos&amp;postedTime[]=): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/nozola/public_html/classifieds/classifieds_page_test.php on line 26
+[20-Nov-2019 22:52:33 UTC] PHP Warning:  file_get_contents(https://classifieds.ksl.com/search?category[]=&amp;subCategory[]=&amp;keyword=jointer&amp;priceFrom=&amp;priceTo=&amp;zip=&amp;miles=25&amp;sellerType[]=&amp;marketType[]=&amp;hasPhotos[]=&amp;postedTime[]=): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/nozola/public_html/classifieds/classifieds_page_test.php on line 26
+[20-Nov-2019 22:52:50 UTC] PHP Warning:  file_get_contents(https://classifieds.ksl.com/search?category[]=&amp;subCategory[]=&amp;keyword=jointer&amp;priceFrom=&amp;priceTo=&amp;zip=&amp;miles=25&amp;sellerType[]=&amp;marketType[]=&amp;hasPhotos[]=&amp;postedTime[]=): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/nozola/public_html/classifieds/classifieds_page_test.php on line 26
